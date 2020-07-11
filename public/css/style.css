@@ -1,0 +1,13 @@
+.header .header-top {
+	background-color: #1b3f59;
+}
+@media (min-width: 992px) {
+	.header .header-top {
+		background-color: #1b3f59;
+	}
+}
+@media (max-width: 991.98px) {
+	.header-mobile {
+		background-color: #1b3f59;
+	}
+}
